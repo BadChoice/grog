@@ -1,5 +1,5 @@
 {
-    "name": "badchoice/grog",
+    "name": "paubenetprat/grog",
     "description": "Easy form builder from array",
     "require": {
         "php": "^7.2.5",
